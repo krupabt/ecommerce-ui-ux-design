@@ -1,32 +1,31 @@
 # ecommerce-ui-ux-design
-# 🛒 ShopEase - E-Commerce UI/UX Design
+# ShopEase - E-Commerce UI/UX Design
 
-## 📌 Overview
+## Overview
 ShopEase is a modern e-commerce UI/UX design created in Figma focusing on usability, responsiveness, and clean design principles.
 
-## 🧩 Pages Included
+## Pages Included
 
-### 🏠 Home Page
+### Home Page
 - Hero banner
 - Product categories
 - Featured products
 
-### 📦 Product Page
+### Product Page
 - Product images
 - Price & ratings
 - Add to cart
 
-### 🛒 Cart Page
+### Cart Page
 - Product list
 - Quantity update
 - Total price
 
-### 🔐 Login Page
+### Login Page
 - Email/password login
 - Signup option
 
-
-## 🛠 Tools Used
+## Tools Used
 - Figma
 - UI/UX Design Principles
 - Responsive Layout
